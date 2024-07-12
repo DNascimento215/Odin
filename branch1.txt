@@ -1,2 +1,6 @@
 adição terciária de economia
+<<<<<<< HEAD
 adição importante
+=======
+enviando 1
+>>>>>>> 409b18a123349aa288853b28adb21f23bdc8e8b0
