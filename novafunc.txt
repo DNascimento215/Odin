@@ -1,1 +1,2 @@
 funcionalidade para ser adicionada
+correção de bug
