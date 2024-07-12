@@ -1,1 +1,2 @@
 Adição de componententes para a resolução do bug.
+Atente-se
