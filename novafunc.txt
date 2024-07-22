@@ -2,3 +2,4 @@ funcionalidade para ser adicionada
 correção de bug
 correção de bug 2
 adição
+adição usu2
